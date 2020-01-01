@@ -8,5 +8,5 @@ Furthermore I want to get into the habit of coding everyday for a certain amount
 2. Tweet your progress every day with the #100DaysOfCode hashtag.
 3. Push code everyday to this repository.
 
-You can check out the Log to see in more detail what I did and what I struggled with.  
+You can check out the [Log](https://github.com/k12shreyam/100DaysOfCode/blob/master/log.md) to see in more detail what I did and what I struggled with.  
 Also you can check out my [Twitter](https://twitter.com/k12shreyam) to see a little more in depth what I am working on and the one or other snippet of stuff I'm working on in the future
